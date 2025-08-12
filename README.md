@@ -4,7 +4,7 @@ Working in Python, HTML/JavaScript/JS, and Lua(U).
 
 Fullstack **(Not for Hire)**
 
-Interested in reverse engineering, penetration testing, OSINT, ethical hacking, malware evaluation/threat intelligence, etc.
+Interested in reverse engineering, ethical hacking, malware evaluation/threat intelligence, etc.
 
 ---
 
