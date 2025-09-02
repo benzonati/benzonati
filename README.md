@@ -3,8 +3,12 @@
 ![Skillset](https://skillicons.dev/icons?i=py,js,html,css)
 ### Learning
 ![Learning](https://skillicons.dev/icons?i=cpp,cs)  
-  
+
 Also learning reverse engineering, ethical hacking, malware evaluation/threat intelligence, among other things.
+
+---
+### Platforms/Engines
+![Platforms/Engines](https://skillicons.dev/icons?i=visualstudio,vscode,robloxstudio)
 
 ---
 ### Stats
