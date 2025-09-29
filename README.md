@@ -6,10 +6,9 @@
 
 Also learning reverse engineering, ethical hacking, malware evaluation/threat intelligence, among other things.
 
----
 ### Platforms/Engines
 ![Platforms/Engines](https://skillicons.dev/icons?i=visualstudio,vscode,robloxstudio)
-
+  
 ---
 ### Stats
 ![Views](https://komarev.com/ghpvc/?username=benzonati&color=80000d&label= 👁️ )  
