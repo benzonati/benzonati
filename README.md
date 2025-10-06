@@ -1,6 +1,6 @@
 # benzonati
 ### Skillset  
-![Skillset](https://skillicons.dev/icons?i=py,js,html,css)
+![Skillset](https://skillicons.dev/icons?i=py,js,html,css,lua)
 ### Learning
 ![Learning](https://skillicons.dev/icons?i=cpp,cs)  
 
