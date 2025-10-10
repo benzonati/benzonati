@@ -1,4 +1,4 @@
-# benzonati
+# benz/benzonati
 ### Skillset  
 ![Skillset](https://skillicons.dev/icons?i=py,js,html,css,lua)
 ### Learning
