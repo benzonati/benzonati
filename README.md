@@ -16,4 +16,4 @@ Also learning reverse engineering, ethical hacking, malware evaluation/threat in
 
 ---
 ### Contact
-[My bio page/social links](https://pretty.rich/benz)
+[My bio page/social links](https://wound.lol/bn)
