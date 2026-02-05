@@ -12,7 +12,7 @@ Also learning reverse engineering, ethical hacking, malware evaluation/threat in
 ---
 ### Stats
 ![Views](https://komarev.com/ghpvc/?username=benzonati&color=80000d&label= 👁️ )  
-![benzonati's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=benzonati&theme=chartreuse-dark)
+<!-- Site is down? ![benzonati's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=benzonati&theme=chartreuse-dark) -->
 
 ---
 ### Contact
