@@ -2,7 +2,7 @@
 ### Skillset  
 ![Skillset](https://skillicons.dev/icons?i=py,js,html,css,lua)
 ### Learning
-![Learning](https://skillicons.dev/icons?i=cpp,cs)  
+![Learning](https://skillicons.dev/icons?i=cpp,cs,nodejs)  
 
 Also learning reverse engineering, ethical hacking, malware evaluation/threat intelligence, among other things.
 
